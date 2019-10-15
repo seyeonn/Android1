@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice01</string>
+    <string name="buttonId">문자열 이동</string>
+    <string name="input_text1">문자열을 입력하세요</string>
+</resources>

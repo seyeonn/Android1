@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A201632012</string>
+    <string name="exam1">문제1</string>
+    <string name="exam2">문제2</string>
+    <string name="ok">확인</string>
+    <string name="test">시험</string>
+    <string name="inputData">데이터 입력</string>
+    <string name="second">둘</string>
+    <string name="first">하나</string>
+</resources>
